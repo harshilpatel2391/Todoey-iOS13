@@ -12,6 +12,7 @@
 		DF2C9037249523370005CC3B /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF2C9036249523370005CC3B /* CategoryViewController.swift */; };
 		DF8773002497F5CF00E370EC /* CategoryRealm.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8772FF2497F5CF00E370EC /* CategoryRealm.swift */; };
 		DF8773022497F5E200E370EC /* ItemRealm.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8773012497F5E200E370EC /* ItemRealm.swift */; };
+		DF87730424991C7A00E370EC /* SwipeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF87730324991C7A00E370EC /* SwipeTableViewController.swift */; };
 		EB2BE4FA239524DB00FB933B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB2BE4F9239524DB00FB933B /* AppDelegate.swift */; };
 		EB2BE4FE239524DB00FB933B /* ToDoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB2BE4FD239524DB00FB933B /* ToDoListViewController.swift */; };
 		EB2BE501239524DB00FB933B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB2BE4FF239524DB00FB933B /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 		DF2C9036249523370005CC3B /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
 		DF8772FF2497F5CF00E370EC /* CategoryRealm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRealm.swift; sourceTree = "<group>"; };
 		DF8773012497F5E200E370EC /* ItemRealm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRealm.swift; sourceTree = "<group>"; };
+		DF87730324991C7A00E370EC /* SwipeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeTableViewController.swift; sourceTree = "<group>"; };
 		E0C63939D3484E0456DC68FD /* Pods_Todoey.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Todoey.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB2BE4F6239524DB00FB933B /* Todoey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Todoey.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB2BE4F9239524DB00FB933B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 			children = (
 				DF2C9036249523370005CC3B /* CategoryViewController.swift */,
 				EB2BE4FD239524DB00FB933B /* ToDoListViewController.swift */,
+				DF87730324991C7A00E370EC /* SwipeTableViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -250,6 +253,7 @@
 				DF8773002497F5CF00E370EC /* CategoryRealm.swift in Sources */,
 				DF2C9037249523370005CC3B /* CategoryViewController.swift in Sources */,
 				DF8773022497F5E200E370EC /* ItemRealm.swift in Sources */,
+				DF87730424991C7A00E370EC /* SwipeTableViewController.swift in Sources */,
 				EB2BE4FE239524DB00FB933B /* ToDoListViewController.swift in Sources */,
 				DF2C901224930D810005CC3B /* DataModel.xcdatamodeld in Sources */,
 				EB2BE4FA239524DB00FB933B /* AppDelegate.swift in Sources */,
